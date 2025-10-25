@@ -3,13 +3,6 @@
 Proyek ini dibuat untuk memenuhi tugas **Praktikum Pemrograman Web** di **Institut Teknologi Sumatera (ITERA)**.  
 Repository ini berisi file dasar untuk memahami struktur dasar **HTML, CSS, dan JavaScript**.
 
----
-
-## 📁 Struktur Folder
-<img width="494" height="177" alt="image" src="https://github.com/user-attachments/assets/5db91bf6-ba28-43d1-9c6c-63c7337b88a0" />
-
----
-
 ## 🚀 Deskripsi Singkat
 Aplikasi sederhana ini menampilkan **tampilan dasar web** menggunakan HTML, CSS, dan JavaScript.  
 Tujuannya adalah untuk memahami:
